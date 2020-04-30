@@ -8,6 +8,9 @@
 * `:totalPages` set the total number of pages.
 * `:maxPagesDisplayed` set the maximum number of pages displayed.
 
+## Events list
+* `@changePage` event called when the page changes. Returns the number of the new page.
+
 ## Install & basic usage
 
 ```bash
