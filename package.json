@@ -1,7 +1,7 @@
 {
   "name": "vue-easy-pager",
   "version": "1.0.1",
-  "description": "",
+  "description": "Simple pagination component for Vue.js",
   "main": "dist/vue-easy-pager.ssr.js",
   "browser": "dist/vue-easy-pager.esm.js",
   "module": "dist/vue-easy-pager.esm.js",
@@ -34,6 +34,15 @@
     "rollup-plugin-vue": "^5.1.6",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
+  },
+  "license": "MIT",
+  "author": "Raphael Lima <oraphadev@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/oraphadev/vue-easy-pager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oraphadev/vue-easy-pager.git"
   },
   "peerDependencies": {
     "vue": "^2.6.11"
