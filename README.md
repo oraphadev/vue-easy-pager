@@ -11,5 +11,5 @@
 ## Install
 
 ```bash
-npm install vue-multiselect
+npm install vue-easy-pager
 ``` 
