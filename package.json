@@ -1,6 +1,6 @@
 {
   "name": "vue-easy-pager",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple pagination component for Vue.js",
   "main": "dist/vue-easy-pager.ssr.js",
   "browser": "dist/vue-easy-pager.esm.js",
@@ -49,5 +49,10 @@
   },
   "engines": {
     "node": ">=10"
-  }
+  },
+	"keywords": [
+		"vue",
+		"vue-easy-pager",
+		"pagination"
+	]
 }
