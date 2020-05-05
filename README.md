@@ -11,6 +11,9 @@
 ## Events list
 * `@changePage` event called when the page changes. Returns the number of the new page.
 
+## Example
+![](demo/demo-vue-easy-pager.gif)
+
 ## Install & basic usage
 
 ```bash
